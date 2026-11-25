@@ -5,7 +5,7 @@ function About() {
       {/* headings and paragraphs  */}
       <div className='flex flex-col text-center gap-6'>
         <h1 className='text-green-500 font-bold pt-18 uppercase text-3xl'>About Me</h1>
-        <p className='text-lg text-justify px-4 text-gray-500' >Hello , i am Dermish Nepal,a professiona Full Stack Developer from Nepal. I enjoy building responsive and mobile friendly websites.</p>
+        <p className='text-lg text-justify px-4 text-gray-500' >Hello , i am Dermish Nepal,a professional Full Stack Developer and Trainer from Nepal. I enjoy building responsive and mobile friendly websites.</p>
         <p className='text-gray-500 text-justify text-lg px-4'>I love learning new technologies,solving problems and creating modern solutions.</p>
 
       </div>
